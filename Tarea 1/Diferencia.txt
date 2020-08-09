@@ -1,0 +1,5 @@
+Imperativa: Se caracteriza porque hay que ir dando instrucciones a la maquina siguiendo una serie de pasos.
+Ejemplos: Lenguajes de alto nivel que se indica paso a paso lo que se requiere hacer para solucionar el problema
+
+Declarativa: Se le indica a la maquina el problema que se requiere resolver, pero no se dan las instrucciones para resolverlo.
+Ejemplo: de uso uso SQL
