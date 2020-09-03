@@ -1,0 +1,14 @@
+[
+    {
+      "nombre": "Pepito Conejo",
+      "edad": 745,
+      "promedio": 435.5,
+      "activo": true
+    },
+    {
+      "nombre": "Ana Barbera",
+      "edad": 1,
+      "promedio": 45.5,
+      "activo": true
+    }
+  ]
